@@ -6,9 +6,6 @@ public class temporary {
         a=b;
         b=temp;
         System.out.printf("a : %d and b : %d ",a,b);
-        +
-        +
 
-       }
-    
+       }  
 }
